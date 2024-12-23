@@ -14,3 +14,4 @@
 #### Timers and Counters: Managing the passage of time or countdowns.
 #### State Management: Adjusting values in simulations or game mechanics.
 ##### Understanding how to efficiently implement and use increment and decrement counters is crucial for any developer working on projects that require precise value tracking, event handling, or iterations over data.
+#Muskan pagal h
